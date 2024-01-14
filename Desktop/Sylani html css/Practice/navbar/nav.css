@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* input{     
+        background-color: rgb(20, 18, 18);
+    /* padding: 20px 10px; */   
+    /* color: white;  
+    border-radius: 35px;
+    padding: 12px 12px;
+} */
+/* #btn{
+    border: 0px;
+}
+#btn:hover{
+    background-color: rgb(110, 110, 110);
+} */ 
+div{
+    height: 100px;
+   
+}
+#box-border{
+    position: relative;
+    width: 200px;
+}
+#one{
+    background-color: yellow;
+    position: relative;
+    
+}
+#two{
+    background-color: rgb(65, 15, 129);
+    position: absolute;                                                /*     at absolute it top will its parent top and also buttom and right
+    /* right: 0px;
+   */ 
+}
+#three{
+    background-color: rgb(32, 32, 30);
+}
+#four{
+    background-color: rgb(116, 116, 113);
+}
+#five{
+    background-color: rgb(151, 151, 16);
+}
+#six{
+    background-color: rgb(165, 30, 97);
+}
